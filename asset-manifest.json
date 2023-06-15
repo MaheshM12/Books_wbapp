@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Books_wbapp/static/css/main.af3002c6.css",
+    "main.js": "/Books_wbapp/static/js/main.f63bf832.js",
+    "index.html": "/Books_wbapp/index.html",
+    "main.af3002c6.css.map": "/Books_wbapp/static/css/main.af3002c6.css.map",
+    "main.f63bf832.js.map": "/Books_wbapp/static/js/main.f63bf832.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af3002c6.css",
+    "static/js/main.f63bf832.js"
+  ]
+}
