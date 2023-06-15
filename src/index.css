@@ -11,26 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-#root{
+/* .container{
   display: flex;
  flex-direction: row;
  justify-content: space-between;
  flex-wrap: wrap;
 }
- .container{
+ 
+.item{
  box-shadow: 4px 4px 4px #000000;
  background-color: rgb(161, 243, 243);
  margin: 2%;
-}
-.container .item{
-  align-items: center;
+ align-items: center;
   align-content: center;
   text-align: center;
-  margin: 2%;
 }
 .container .item img{
   width: 200px;
   height: 220px;
+}
+.item h1{
+  margin: 2%;
 }
 .item a{
   text-decoration: none;
@@ -40,12 +41,13 @@ code {
 .item a button{
   border: none;
   background-color: bisque;
- width: 80%;
- height: 15%;
+ width: 40%;
+ height: 5%;
  cursor: pointer;
 text-align: center;
+margin: 2%;
 }
 .item a button:hover{
   transform: scale(1.1);
   border: 1px solid black;
-}
+} */
