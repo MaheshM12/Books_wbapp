@@ -33,8 +33,9 @@ imgalt:'the_alchemist_image'
 ];
   function Display() {
       return (
-        <div className="container"> 
+        <>
         <h1>My Favorite Books:</h1>
+        <div className="container"> 
         { obj.map(ele=>(
              <div className="item">
              <h1>{ele.imgname}</h1>
@@ -44,7 +45,7 @@ imgalt:'the_alchemist_image'
              />
              <a href={ele.imglink}><button>Visit-Book</button></a> </div> 
           ))}
-     </div>
+     </div></>
       );
         
   }        
